@@ -1,5 +1,5 @@
 
-# ETL - Kaggle-Databricks-Snowflake
+# ETL - Data Pipeline using Databricks with Snowflake and AWS
 This project demonstrates an ETL (Extract, Transform, Load) pipeline for processing data sourced from ```Kaggle```, filtering it in Databricks, and loading it into Snowflake.
 
 ## Architecture
